@@ -1,7 +1,7 @@
 # Setup
 title: Poole
 tagline: The Jekyll Butler
-url: https://getpoole.com
+url: http://jonasena.github.io/testblog/
 paginate: 1
 baseurl: http://jonasena.github.io/testblog/
 permalink: pretty
